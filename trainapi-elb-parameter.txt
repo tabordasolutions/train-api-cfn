@@ -1,0 +1,4 @@
+VPC	vpc-073581876391ad079	-
+Subnets	subnet-046fc93a11bc278d8,subnet-0ddd9f467c98427f7	-
+SecurityGroup	sg-069d90e97821a7e42	-
+EnvironmentName	prod

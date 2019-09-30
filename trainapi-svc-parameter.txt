@@ -1,0 +1,6 @@
+
+Path =	/trainapi	-
+DesiredCount =	2	-
+Listener =	arn:aws:elasticloadbalancing:us-west-2:618209257270:listener/app/dev/aed4ce55509dfcb9/0813c4e37d5efa96	-
+Cluster =	dev	-
+VPC =	vpc-0b88cab6194f0258a

@@ -1,0 +1,7 @@
+VPC	vpc-0b88cab6194f0258a	-
+Subnets	subnet-043855c4843d42c66,subnet-0d124f7844bb14ff5	-
+SecurityGroup	sg-08f4ca2b1f9d22252	-
+InstanceType	t3.small	-
+EnvironmentName	dev	-
+ECSAMI	/aws/service/ecs/optimized-ami/amazon-linux/recommended/image_id	ami-043c4e6bff652b99e
+ClusterSize	4

@@ -1,0 +1,6 @@
+VpcCIDR	10.29.14.0/24	-
+PublicSubnet2CIDR	10.29.14.0/26 	-
+PublicSubnet1CIDR	10.29.14.64/26	-
+privateSubnet1CIDR 10.29.14.128 -
+privateSubnet2CIDR 10.29.14.192 -
+EnvironmentName	prod
