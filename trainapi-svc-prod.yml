@@ -45,7 +45,7 @@ Resources:
       ContainerDefinitions:
         - Name: product-service
           Essential: true
-          Image: 584053984847.dkr.ecr.us-west-2.amazonaws.com/taborda/trainapi:0.0.2
+          Image: 584053984847.dkr.ecr.us-west-2.amazonaws.com/taborda/trainapi:0.0.5
           Memory: 512
           PortMappings:
             - ContainerPort: 9090
